@@ -1,2 +1,2 @@
 # Staff-management-system
-To download, please open debug file, then run setup.exe.
+To download, please open setup1 file, then go to debug file and run setup.exe.
